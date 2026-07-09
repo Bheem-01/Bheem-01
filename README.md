@@ -16,7 +16,7 @@ I completed my <strong>Master of Computer Applications (MCA)</strong> and am cur
 
 - 🎓 MCA Graduate
 - 💻 Currently learning **Full Stack Web Development**
-- 🌱 Strengthening my skills in **JavaScript, Node.js, Express.js, React, MongoDB, and DevOps**
+- 🌱 Strengthening my skills in **JavaScript, Node.js, Express.js, React, MongoDB, and**
 - 🧠 Solving coding problems daily to improve logic-building and problem-solving skills
 - 🚀 Building projects to gain practical development experience
 - 📚 Passionate about writing clean, maintainable, and efficient code
