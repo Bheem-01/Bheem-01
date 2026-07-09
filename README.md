@@ -79,10 +79,12 @@ I completed my <strong>Master of Computer Applications (MCA)</strong> and am cur
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bheem-01&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bheem-01&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bheem-01&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Bheem-01&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+<!--<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bheem-01&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p> --!>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
