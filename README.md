@@ -86,12 +86,12 @@ I completed my <strong>Master of Computer Applications (MCA)</strong> and am cur
   <img src="https://streak-stats.demolab.com?user=Bheem-01&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p> --!>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 📈 Contribution Graph
 
 [![Bheem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheem-01&theme=react-dark)](https://github.com/Bheem-01)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bheem-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
