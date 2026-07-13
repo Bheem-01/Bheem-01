@@ -16,7 +16,7 @@ I completed my <strong>Master of Computer Applications (MCA)</strong> and am cur
 
 - 🎓 MCA Graduate
 - 💻 Currently learning **Full Stack Web Development**
-- 🌱 Strengthening my skills in **JavaScript, Node.js, Express.js, React, MongoDB, and**
+- 🌱 Strengthening my skills in **JavaScript, Node.js, Express.js, React, MongoDB, and git.**
 - 🧠 Solving coding problems daily to improve logic-building and problem-solving skills
 - 🚀 Building projects to gain practical development experience
 - 📚 Passionate about writing clean, maintainable, and efficient code
@@ -88,6 +88,10 @@ I completed my <strong>Master of Computer Applications (MCA)</strong> and am cur
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 📈 Contribution Graph
+
+[![Bheem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bheem-01&theme=react-dark)](https://github.com/Bheem-01)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bheem-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
